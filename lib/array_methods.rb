@@ -1,7 +1,7 @@
 numbers = [1, 2, 3, 4]
 
 def find_element_index(array, value_to_find)
-  puts array.length.index(value_to_find)
+  puts array.index(value_to_find)
 end
 
 # def find_max_value(array)
